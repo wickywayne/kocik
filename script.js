@@ -4,11 +4,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function losujFotke() {
     const zdjeciaKotow = [
-        { src: "kot1.jpg", podpis: "Kocik glupiutki" },
-        { src: "kot2.jpg", podpis: "Kocik powazniutki" },
+        { src: "kot1.jpg", podpis: "Kocik głupiutki" },
+        { src: "kot2.jpg", podpis: "Kocik poważniutki" },
         { src: "kot3.jpg", podpis: "Kocik uszaty" },
         { src: "kot4.jpg", podpis: "Kocik kochany" },
-        { src: "kot5.jpg", podpis: "Kocik jablkowy" },
+        { src: "kot5.jpg", podpis: "Kocik jabłkowy" },
         { src: "kot6.jpg", podpis: "Kocik zdezorientowany" },
         { src: "kot7.jpg", podpis: "Kocik benc" },
         { src: "kot8.jpg", podpis: "Kocik arbuzowy" },
